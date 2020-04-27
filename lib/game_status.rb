@@ -16,7 +16,7 @@ WIN_COMBINATIONS =
 
 def won?(board)
   WIN_COMBINATIONS.each do |win_combination|
-    if 
+    if
       board[win_combination[0]] == 'X' && board[win_combination[1]=='X' && board [win_combination[2]] == 'X'
       return "X wins with #{win_combination}"
     elsif
@@ -26,5 +26,5 @@ def won?(board)
       return false
     end
 end
-  
+
     
