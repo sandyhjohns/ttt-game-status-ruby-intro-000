@@ -5,7 +5,7 @@ end
 
 # Define your WIN_COMBINATIONS constant
 
-WIN_COMBINATIONS = 
+WIN_COMBINATIONS =
 [
   [0,1,2],
   [3,4,5],
@@ -13,4 +13,3 @@ WIN_COMBINATIONS =
   [0,4,8],
   [2,4,6]
 ]
-
